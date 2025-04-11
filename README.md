@@ -1,5 +1,5 @@
 # Quantum Hybrid Languange Model Research
-
+![Alt Text](/metadata/image1.png)
 ## Description
 This repository contains research related to integrating Quantum Computing with Large Language Models (LLMs). The primary focus of this project is on the development of *Quantum-Hybrid-LLMs*, which combines the power of models like GPT-2, T5-small, and Word2Vec with quantum layers to explore the potential improvements in natural language processing (NLP).
 

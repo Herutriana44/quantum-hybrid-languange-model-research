@@ -1,5 +1,5 @@
 # Penelitian Model Bahasa Kuantum-Hibrida
-
+![Alt Text](/metadata/image1.png)
 ## Deskripsi
 Repository ini berisi penelitian terkait integrasi Komputasi Kuantum dengan Model Bahasa Besar (Large Language Models / LLM). Fokus utama dari proyek ini adalah pengembangan *Quantum-Hybrid-LLMs*, yang menggabungkan kekuatan model seperti GPT-2, T5-small, dan Word2Vec dengan lapisan kuantum untuk mengeksplorasi potensi peningkatan dalam pemrosesan bahasa alami (NLP).
 
